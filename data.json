@@ -1,0 +1,70 @@
+[
+    {
+        "number": 1,
+        "data": [
+            {
+                "question": "Bài hát có đoạn “Một con đò sang ngang. Ôi lòng thầy mênh mang. Cho em biết yêu cánh cò trong câu ca dao…” là của tác giả nào?",
+                "answers": [
+                    {
+                        "isTrue": false,
+                        "answer": "Trần Tiến"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Hàn Ngọc Bích"
+                    },
+                    {
+                        "isTrue": true,
+                        "answer": "Lưu Hà An"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Trần Đức"
+                    }
+                ]
+            },
+            {
+                "question": "Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh làm nền tảng ghi trong văn bản nào sau đây?",
+                "answers": [
+                    {
+                        "isTrue": false,
+                        "answer": "Điều lệ trường Cao đẳng"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Luật giáo dục"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Nghị quyết của Đảng"
+                    },
+                    {
+                        "isTrue": true,
+                        "answer": "Tất cả các văn bản trên"
+                    }
+                ]
+            },
+            {
+                "question": "Quy chế đào tạo đại học và cao đẳng hệ chính quy theo hệ thống tín chỉ được quy định tại:",
+                "answers": [
+                    {
+                        "isTrue": false,
+                        "answer": "Luật giáo dục"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Quy chế 43/2007/QĐ-GDĐT"
+                    },
+                    {
+                        "isTrue": true,
+                        "answer": "Quy chế 25/2006/ QĐ-GDĐT"
+                    },
+                    {
+                        "isTrue": false,
+                        "answer": "Quyết định số 31/2001/ QĐ-GDĐT"
+                    }
+                ]
+            }
+        ]
+    }
+]
