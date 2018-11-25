@@ -93,6 +93,7 @@ a {
     text-transform: uppercase;
     border: none;
     border-radius: 3px;
+    cursor: pointer;
 }
 
 .answer__number{
